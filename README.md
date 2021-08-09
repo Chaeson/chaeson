@@ -22,3 +22,17 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Window Power Shell
+``` 
+> Set-ExecutionPolicy RemoteSigned
+```
+## Vue Download
+```
+> npm install -g @vue/cli
+```
+## element UI
+```
+> npm install -S element-ui
+> vue add element
+```
